@@ -1,0 +1,26 @@
+body{
+    border-style: solid;
+    border-radius: 4px;
+    background-color: white;
+    padding: 4px;
+    margin: auto;
+    text-align: left;
+    width: 80%;
+
+}
+h2{
+    font-size: 18px;
+}
+.name{
+    color: green;
+    font-size: 14px;
+
+}
+.name1{
+    color: red;
+    font-size: 14px;
+}
+.name2{
+    color: blue;
+    font-size: 14px;
+}
